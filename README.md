@@ -12,4 +12,4 @@
 
 [![KING-AS](https://telegra.ph/file/7c94b6caec81a6e7e521e.jpg?size=100000)](https://github.com/KING-AS)
 
-## [![RDX-V2](https://readme-typing-svg.herokuapp.com?font=Road&color=0000FF&lines=Welcome+to+RDX-V2+WA+Bot+repo;Created+by+ABHIRAM+SACHU)]()
+
