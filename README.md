@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KFAJINN/NEWBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX_V2)
 
 [![RDX](https://readme-typing-svg.herokuapp.com?font=&color=%23001FF7&vCenter=true&multiline=true&height=80&lines=HI+WELCOME+TO+RDX+V2+REPO;Thanks+to+MY++DEVELOPERS)](NOTHING)
 
