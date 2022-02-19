@@ -1,0 +1,5 @@
+build:
+  docker:
+      worker: /RDX/Dockerfile
+run:
+   worker: npm start
