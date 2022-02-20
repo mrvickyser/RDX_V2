@@ -55,7 +55,15 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
+### ```Thanks to Developers```
 
+@Viz-Zer
+
+@MrAxenzo
+
+@PrinceRudh
+
+@farhan-dqz
 
 ## DEVELOPER'S
 
