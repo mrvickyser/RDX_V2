@@ -61,7 +61,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/m
 await message.client.sendMessage(message.jid, fs.readFileSync('./media/uploads/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         
-const array = ['Love','njan','pewer','poda','power','Wait','RDX','alive','coming','Ara','Bgm','bgm','group','entry','Sry','Sorry','Set','Hi']
+const array = ['Love','njan','pewer','poda','power','Wait','RDX','alive','coming','Ara','Bgm','bgm','group','entry','Sry','Sorry','Set','Hi','hi','love','Hacker','Bro','Myre','welcome']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
@@ -94,7 +94,7 @@ await message.client.sendMessage(message.jid, fs.readFileSync('./media/files/men
 await message.client.sendMessage(message.jid, fs.readFileSync('./media/files/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
         var uri = encodeURI(match[1])
-const array = ['Love','njan','pewer','poda','power','Wait','RDX','alive','coming','Ara','Bgm','bgm','group','entry','Sry','Sorry','Set','Hi']
+const array = ['Love','njan','pewer','poda','power','Wait','RDX','alive','coming','Ara','Bgm','bgm','group','entry','Sry','Sorry','Set','Hi','hi','love','Hacker','Bro','Myre','welcome']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
