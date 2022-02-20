@@ -17,5 +17,12 @@
 
 ## DEVELOPER'S
 
-
+ <div align="center">
+    
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![KING-AS](https://github.com/KING-AS.png?size=100)](https://github.com/KINGS-AS) |  [![](https://github.com/Viz-Zer.png?size=100)](https://github.com/Viz-Zer) | [![Prince Rudh](https://github.com/PrinceRudh.png?size=100)](https://github.com/PrinceRudh) | [![Akarsh-Sir](https://github.com/MrAxenzo.png?size=100)](https://github.com/MrAxenzo) 
+----|----|----|----|----
+[farhan-dqz](https://github.com/farhan-dqz) | [Abhiram Sachu](https://github.com/KINGS-AS) | [Pʀᴀɴᴀᴠ Sᴇʀ](https://github.com/Viz-Zer) | [Prince Rudh](https://github.com/PrinceRudh) | [Akarsh-Sir](https://github.com/MrAxenzo) 
+Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules | Bug Fixes, Modules , Error Fixed
+  </div>
+    
 -----------
