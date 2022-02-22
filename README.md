@@ -8,7 +8,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@KINGS-AS/RDXV2)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX_V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrvickyser/RDX_V2)
 
 
   ### ⬆️ If there is an error deploying, try the following steps
