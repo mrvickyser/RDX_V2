@@ -24,8 +24,8 @@
             "REMOVE_DESC": "Removes the plugin.",
             "NEED_PLUGIN": "```Please enter a Plugin! Example: .plugin __test```",
             "NOT_FOUND_PLUGIN": "```Maybe you have installed such a plugin, or maybe not. But it sure isn't right now.```",
-            "DELETED": "*✅ Module successfully deleted!*",
-            "WARN": "Get plugins only from t.me/remasterplugin channel."
+            "DELETED": "*✅ plugin successfully deleted!*",
+            "WARN": "Get plugins only from tinyurl.com/Rdxplugins ."
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
@@ -153,7 +153,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! Lizamwol ini varathilla 🥲```",
+            "KICKME": "```Bye bye! Bot ini varathilla 🥲```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -201,13 +201,13 @@
             "RATING": "RATING",
             "UPLOADING_SONG": "✮⃝🕊️✿𝐔𝐏𝐋𝐎𝐀𝐃𝐈𝐍𝐆 𝐘𝐎𝐔𝐑 𝐒𝐎𝐍𝐆✿✮⃝🕊️",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtube.com/shorts/zZUp2mYzyMg?feature=share ```",
             "DOWNLOADING_VIDEO": "```Downloading```",
             "UPLOADING_VIDEO": "```Uploading```",
             "LOADING": "```Downloading video```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
-            "GETTING_VIDEOS": "```I'm bringing videos...```",
+            "GETTING_VIDEOS": "```I'm searching videos...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
             "SEARCHING": "* 🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
@@ -217,7 +217,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```Wait cheyy ippo taram✔️```"
+            "DOWNLOADING": "```Wait cheyy ippo taram```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -244,7 +244,7 @@
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Povalle Update cheyyatte...😅```",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*Update Kazinju🧚‍♀️✅*",
+            "UPDATED": "*Update Kazinju ✅*",
             "UPDATED_LOCAL": "*✅ Updated!*",
             "AFTER_UPDATE": "*RDX V2 Restarting*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
