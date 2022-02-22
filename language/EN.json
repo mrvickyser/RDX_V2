@@ -305,7 +305,7 @@
         "conventer": {
             "MP4TOAUDİO_DESC": "Converts video to sound.",
             "MP4TOAUDİO_NEEDREPLY": "*You Must Reply to a Video!*",
-            "MP4TOAUDİO": "```Converting Video to Audio..```",
+            "MP4TOAUDİO": "```Converting to Audio..```",
             "ANİM_STİCK": "Converts animated stickers to video.",
             "ANİMATE": "```Converting Animated Sticker To Video..```",
             "STİCKER_DESC": "Converts the sticker to a photo.",
